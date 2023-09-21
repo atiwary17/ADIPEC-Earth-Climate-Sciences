@@ -53,7 +53,18 @@ nav a {
 nav a:hover {
     color: #ff4136;
 }
+/* Style the section boxes */
+.section-box {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 2rem;
+    margin: 2rem 0;
+    transition: transform 0.3s ease; /* Add hover effect */
+}
 
+.section-box:hover {
+    transform: scale(1.02); /* Scale up on hover */
+}
 /* Style the hero section */
 #hero {
     background-image: url('dry_earth.jpeg');
