@@ -77,15 +77,11 @@ nav a:hover {
 #hero h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
-    text-transform: uppercase; /* Uppercase text */
-    letter-spacing: 2px; /* Add letter spacing */
-    color: #ff4136; /* Highlight color */
 }
 
 #hero p {
     font-size: 1.2rem;
     margin-bottom: 2rem;
-    font-weight: 300; /* Lighter font weight */
 }
 
 .cta-button {
